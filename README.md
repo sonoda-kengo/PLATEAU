@@ -32,7 +32,7 @@ yarn dev
 
 By default, the development server will start on port 3000. Open http://localhost:3000 in your browser to see the app.
 
-![image](/image/me.jpg)
+![image](public/image/me.jpg)
 
 ## reference
 
